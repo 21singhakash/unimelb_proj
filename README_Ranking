@@ -1,0 +1,8 @@
+There are 3 files related to this project a. app.py, b. rank_file.py, c. sorting.py
+app.py file is responsible for fetching the values for the passed(CL argument) or provided in code urls page(stackoverflow user's profile).
+rank_file.py is responsible for sorting and ranking the user's profile on the basis of it's 
+score variable( as of now, in future variables can be increased).
+sorting.py contains sorting logic.
+
+In order to run the progam use below command from python terminal:
+python app.py 'url'
